@@ -1,1 +1,1 @@
-console.log("Jai Bajrang Bali")
+console.log("Jai Bajrang Bali ki jai")
